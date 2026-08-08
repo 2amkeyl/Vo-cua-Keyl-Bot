@@ -7,7 +7,7 @@
 ---
 
 ## 👑 Tôn trọng Bản Quyền (Credits)
-**⚠️ QUAN TRỌNG:** Toàn bộ phần cốt lõi (Core Logic) để quét, nhận và hoàn thành các Quest trên Discord đều thuộc bản quyền của dự án gốc. Mọi người có thể tham gia Server cộng đồng của tác giả để trao đổi thêm các tính năng auto[cite: 1].
+**⚠️ QUAN TRỌNG:** Toàn bộ phần cốt lõi (Core Logic) để quét, nhận và hoàn thành các Quest trên Discord đều thuộc bản quyền của dự án gốc. Mọi người có thể tham gia Server cộng đồng của tác giả để trao đổi thêm các tính năng auto.
 
 Xin gửi lời cảm ơn chân thành nhất đến tác giả **thanhdo1110** vì một mã nguồn quá tuyệt vời! ✨
 
@@ -18,12 +18,12 @@ Phiên bản **"Vợ của Keyl"** là một bản Fork (tùy biến) được k
 ## 🎀 Tính năng nổi bật
 
 ### 🧠 Tính năng cốt lõi (Từ bản gốc)
-* **Auto Scan:** Tự động quét quest mới theo chu kỳ[cite: 1].
-* **Auto Accept:** Tự động đăng ký (enroll) các quest chưa nhận[cite: 1].
-* **Auto Complete:** Tự động hoàn thành quest bằng cách gửi progress (tiến độ) hoặc heartbeat (nhịp tim)[cite: 1].
-* **Rate Limit Handling:** Tự động chờ và thử lại khi bị giới hạn tốc độ (báo lỗi 429)[cite: 1].
-* **Build Number Fetch:** Tự động lấy `client_build_number` mới nhất từ Discord web app[cite: 1].
-* **Hỗ trợ đa dạng Task:** Xử lý mượt mà các nhiệm vụ như xem video (`WATCH_VIDEO`), chơi game (`PLAY_ON_DESKTOP`, `STREAM_ON_DESKTOP`), và các hoạt động khác (`PLAY_ACTIVITY`)[cite: 1].
+* **Auto Scan:** Tự động quét quest mới theo chu kỳ.
+* **Auto Accept:** Tự động đăng ký (enroll) các quest chưa nhận.
+* **Auto Complete:** Tự động hoàn thành quest bằng cách gửi progress (tiến độ) hoặc heartbeat (nhịp tim).
+* **Rate Limit Handling:** Tự động chờ và thử lại khi bị giới hạn tốc độ (báo lỗi 429).
+* **Build Number Fetch:** Tự động lấy `client_build_number` mới nhất từ Discord web app.
+* **Hỗ trợ đa dạng Task:** Xử lý mượt mà các nhiệm vụ như xem video (`WATCH_VIDEO`), chơi game (`PLAY_ON_DESKTOP`, `STREAM_ON_DESKTOP`), và các hoạt động khác (`PLAY_ACTIVITY`).
 
 ### 💖 Tính năng giao diện độc quyền (Vợ của Keyl)
 * **Giao diện Dễ thương:** Lời thoại nũng nịu, đính kèm các ảnh GIF Yui-chan thay đổi ngẫu nhiên siêu cấp đáng yêu.
@@ -34,8 +34,8 @@ Phiên bản **"Vợ của Keyl"** là một bản Fork (tùy biến) được k
 ---
 
 ## 🛠️ Yêu cầu hệ thống
-* Yêu cầu cài đặt Python 3.7+[cite: 1].
-* Thư viện gốc: `requests`[cite: 1].
+* Yêu cầu cài đặt Python 3.7+.
+* Thư viện gốc: `requests`.
 * Thư viện cho Bot: `discord.py` và `python-dotenv`.
 
 ---

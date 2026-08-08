@@ -1,0 +1,6 @@
+# Bỏ qua file chứa Token
+.env
+
+# Bỏ qua các file rác của Python
+__pycache__/
+*.pyc
